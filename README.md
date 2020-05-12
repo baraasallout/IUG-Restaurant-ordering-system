@@ -12,38 +12,38 @@
          Moomen Al-Dahdouh 		120161501
 
 ## diagram 
-
+screenshot/1.PNG
 ### Use case diagram for Customers
-![Customers](../food/screenshot/diagram/1.png)
+![Customers](screenshot/diagram/1.png)
 ### Use case diagram for Employees
-![Employees](../food/screenshot/diagram/2.png)
+![Employees](screenshot/diagram/2.png)
 ### sequence diagram for login
-![login](../food/screenshot/diagram/3.png)
+![login](screenshot/diagram/3.png)
 
 ### sequence diagram for request an order.
-![request](../food/screenshot/diagram/4.png)
+![request](screenshot/diagram/4.png)
 
 ### Class diagram for order operation.
-![operation](../food/screenshot/diagram/5.png)
+![operation](screenshot/diagram/5.png)
 
 
 
 ### Food Menu and request order (Customer)
-![Menu order](../food/screenshot/1.png)
+![Menu order](screenshot/1.png)
 ### place Orders (Customer)
-![request order](../food/screenshot/3.png)
+![request order](screenshot/3.png)
 ### View all Orders (Customer)
-![Orders trigger](../food/screenshot/2.png)
+![Orders trigger](screenshot/2.png)
 ### Add and Modify Food Menu (Admin)
-![Modify Menu](../food/screenshot/4.png)
+![Modify Menu](screenshot/4.png)
 ### Accept and reject orders. (Admin)
-![Accept orders](../food/screenshot/8.png)
+![Accept orders](screenshot/8.png)
 ### Communicating on Support Ticket
-![Tickets(User)](../food/screenshot/5.png)
+![Tickets(User)](screenshot/5.png)
 
 ## Screenshots
 ### Food Menu and request order (Customer)
-![Menu order](../food/screenshot/1.png)
+![Menu order](food/screenshot/1.png)
 ### place Orders (Customer)
 ![request order](../food/screenshot/3.png)
 ### View all Orders (Customer)
