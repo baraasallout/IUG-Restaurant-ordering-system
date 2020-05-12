@@ -30,3 +30,8 @@
 ![request](screenshot/diagram/4.png)
 ### Class diagram for order operation.
 ![operation](screenshot/diagram/5.png)
+
+## How to run project in your device:
+1. install xampp by this link: [a link](https://www.apachefriends.org/download.html)
+2. add folders project in **htdocs folder** of xampp file program.
+3. add food.sql from **SQL folder** in localhost/phpmyadmin database.  
