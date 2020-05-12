@@ -11,7 +11,7 @@
          Moomen Al-Dahdouh 		120161501
 
 ## diagram 
-screenshot/1.PNG
+
 ### Use case diagram for Customers
 ![Customers](screenshot/diagram/1.png)
 ### Use case diagram for Employees
