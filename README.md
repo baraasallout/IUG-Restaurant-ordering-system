@@ -31,7 +31,7 @@
 ### Class diagram for order operation.
 ![operation](screenshot/diagram/5.png)
 
-## How to run project in your device:
+## Run project in your device:
 1. install xampp by [Download xampp link](https://www.apachefriends.org/download.html) and start of **apache and mySQL** from contol panal of xampp.
 2. select explorer from contol panal of xampp and all folder project as name "food" in **htdocs folder** in this folder open after select explorer.
 3. add food.sql from **SQL folder** in localhost/phpmyadmin database.  
