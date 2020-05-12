@@ -3,6 +3,8 @@
  
  ** ** The customer can register initially with minimum details and will be allowed to check the menu items before ordering them, adding them to cart and submit the order. The system records the details in MySQL database so that it will be easy to retrieve later. The users of the system also include employee who will handle info related to product addition and delivery or rejection of the request.
 
+### User interfaces GIF
+![interfaces](screenshot/22.gif)
 
 ## This project was programmed by:
          Baraa  Salout 			120160721
@@ -37,5 +39,5 @@
 ![Modif Menu](screenshot/4.png)
 ### Accept and reject orders. (Admin)
 ![Acceptorders](screenshot/8.png)
-### Communicating on Support Ticket
-![Tickets](screenshot/22.gif)
+### User interfaces GIF
+![interfaces](screenshot/22.gif)
