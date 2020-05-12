@@ -38,4 +38,4 @@
 ### Accept and reject orders. (Admin)
 ![Acceptorders](screenshot/8.png)
 ### Communicating on Support Ticket
-![Tickets](screenshot/5.png)
+![Tickets](screenshot/22.gif)
