@@ -20,24 +20,7 @@
 ![Employees](screenshot/diagram/2.png)
 ### sequence diagram for login
 ![login](screenshot/diagram/3.png)
-
 ### sequence diagram for request an order.
 ![request](screenshot/diagram/4.png)
-
 ### Class diagram for order operation.
 ![operation](screenshot/diagram/5.png)
-
-
-## Screenshots
-### Food Menu and request order (Customer)
-![Menuorder](screenshot/1.png)
-### place Orders (Customer)
-![requestorder](screenshot/3.png)
-### View all Orders (Customer)
-![Orderstrigger](screenshot/2.png)
-### Add and Modify Food Menu (Admin)
-![Modif Menu](screenshot/4.png)
-### Accept and reject orders. (Admin)
-![Acceptorders](screenshot/8.png)
-### Communicating on Support Ticket
-![Tickets(User)](../food/screenshot/5.png)
