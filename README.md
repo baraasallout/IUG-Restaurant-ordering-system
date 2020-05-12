@@ -28,14 +28,14 @@
 
 ## Screenshots
 ### Food Menu and request order (Customer)
-![Menu order](screenshot/1.png)
+![Menuorder](screenshot/1.png)
 ### place Orders (Customer)
-![request order](screenshot/3.png)
+![requestorder](screenshot/3.png)
 ### View all Orders (Customer)
-![Orders trigger](screenshot/2.png)
+![Orderstrigger](screenshot/2.png)
 ### Add and Modify Food Menu (Admin)
-![Modify Menu](screenshot/4.png)
+![Modif Menu](screenshot/4.png)
 ### Accept and reject orders. (Admin)
-![Accept orders](screenshot/8.png)
+![Acceptorders](screenshot/8.png)
 ### Communicating on Support Ticket
 ![Tickets](screenshot/5.png)
