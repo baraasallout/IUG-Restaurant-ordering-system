@@ -14,9 +14,6 @@
 
 ## This project was programmed by:
 1. Baraa  Salout        120160721 
-2. Mohanned Abu Hassira	120161005
-3. Baraa Al-Astal 	    	120161134 
-4. Moomen Al-Dahdouh 	 	120161501
 
 ## diagram 
 
